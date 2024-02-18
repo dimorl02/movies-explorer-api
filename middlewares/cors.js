@@ -1,6 +1,6 @@
 const allowedCors = [
-  'https://api.movies.dimorl02.nomoredomainsmonster.ru',
-  'http://api.movies.dimorl02.nomoredomainsmonster.ru',
+  'https://movies.dimorl02.nomoredomainsmonster.ru',
+  'http://movies.dimorl02.nomoredomainsmonster.ru',
   'https://localhost:3000',
   'http://localhost:3000',
   'https://localhost:3001',
